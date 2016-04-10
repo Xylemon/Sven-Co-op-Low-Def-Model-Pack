@@ -1,5 +1,5 @@
-Sven Co-op Low-Def Pack - For Sven Co-op 5.0
-============================================
+Sven Co-op Low-Def Pack - For Sven Co-op
+========================================
 
 About
 -----
@@ -16,8 +16,11 @@ adds back stock sounds for weapons and walking as well.
 Installation
 ------------
 
-Put the contents of this folder (excluding this text file) into your
-"steamapps/common/Sven Co-op/svencoop_addon/" folder. That simple.
+Put the contents of this folder (excluding this text file) into:
+
+"steamapps/common/Sven Co-op/svencoop_addon/"
+
+That simple.
 
 It is **highly recommended** that you install **ONLY** to the above folder,
 otherwise un-installation will be a nightmare. Not to mention other
@@ -41,11 +44,7 @@ mentioned addons folder.
 Known Issues
 ------------
 
-- No proper low-def models for all of the official maps (only some)
-- No low-def Tor model
-- No muzzle flash for M16/M4
-- Minigun doesn't play a spinning animation when holding right click
-- Some animations are messed up on Hgrunts (HL and OP4 variants)
+See https://github.com/Xylemon/Sven-Co-op-Low-Def-Model-Pack/issues
 
 Credits
 -------
