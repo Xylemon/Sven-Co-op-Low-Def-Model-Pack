@@ -1,13 +1,15 @@
 Sven Co-op Low-Def Pack - For Sven Co-op
 ========================================
 
+Restoring the look of classic Sven.
+
 About
 -----
 
 This is a Low-Def Pack for Sven Co-op. It's pretty much a copy and paste of
-SC 3.0 and stock Half-Life models and sounds. Only the base content is meant
-to be replaced, so don't be surprised if custom maps look out of place trying
-to match the "SD" content of normal Sven.
+SC 3.0 and stock Half-Life models and sounds. Only the base content is 
+meant to be replaced, so don't be surprised if custom maps look out of 
+place trying to match the "SD" content of normal Sven.
 
 The goal was to restore the look and feel back to the good old days of Sven
 Co-op 3.0, and to create/modify content to replace new models since 3.0. It
@@ -18,12 +20,12 @@ Installation
 
 Put the contents of this folder (excluding this text file) into:
 
-"steamapps/common/Sven Co-op/svencoop_addon/"
+	steamapps/common/Sven Co-op/svencoop_addon/
 
 That simple.
 
 It is **highly recommended** that you install **ONLY** to the above folder,
-otherwise un-installation will be a nightmare. Not to mention other
+otherwise uninstallation will be a nightmare. Not to mention other
 possible compatibility issues may occur.
 
 Extras
@@ -53,6 +55,6 @@ Credits
 - Gearbox Software: Models and Sounds from Opposing Force
 - Sven Co-op Team: Models and Sounds from Sven Co-op 3.0
 - Andres "Zero" Walsh from RadioActive Software: M4 model and clip
- (modded without permission)
+  (modded without permission)
 - Joe "Joebama" Baslock: Various player models and help
-- Project Manager: Gethyn "Xylemon" ThomasQuail
+- Xylemon: Project Manager
