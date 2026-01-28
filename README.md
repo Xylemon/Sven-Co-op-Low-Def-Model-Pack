@@ -3,6 +3,11 @@ Sven Co-op Low-Def Pack - For Sven Co-op
 
 Restoring the look of classic Sven.
 
+**NOTE:**
+
+This has been superseeded by more complete and updated model packs. The currently recommended one by the community:
+https://gamebanana.com/mods/167285
+
 About
 -----
 
@@ -56,5 +61,5 @@ Credits
 - Sven Co-op Team: Models and Sounds from Sven Co-op 3.0
 - Andres "Zero" Walsh from RadioActive Software: M4 model and clip
   (modded without permission)
-- Joe "Joebama" Baslock: Various player models and help
+- Suparsonik: Various player models and help
 - Xylemon: Project Manager
