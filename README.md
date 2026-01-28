@@ -5,7 +5,7 @@ Restoring the look of classic Sven.
 
 **NOTE:**
 
-This has been superseeded by more complete and updated model packs. The currently recommended one by the community:
+This has been superseded by more complete and updated model packs. The currently recommended one by the community:
 https://gamebanana.com/mods/167285
 
 About
